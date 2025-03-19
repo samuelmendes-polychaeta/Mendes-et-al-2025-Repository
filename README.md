@@ -29,7 +29,7 @@ The user can download this repository to a local folder in your computer
 ## downloading all files
 
 ```{r eval=FALSE, echo=TRUE}
-download.file(url = "https://github.com/samuelmendes-polychaeta/Mendes-et-al-2025/archive/refs/heads/main.zip", destfile = "Mendes_et_al_2025.zip")
+download.file(url = "https://github.com/samuelmendes-polychaeta/Mendes-et-al-2025-Repository/archive/refs/heads/main.zip", destfile = "Mendes_et_al_2025.zip")
 ```
 
 
